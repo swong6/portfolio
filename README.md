@@ -27,7 +27,6 @@
 
 ### Seattle Airbnb Reservation Analysis _(Jul 2025, Personal Project)_
 - Employed SQL to clean 48K records, resolve missing prices, and built Tableau dashboards to recommend host pricing and utilization decisions.
-![Airbnb](/assets/img/Airbnb.png)
 [Tableau](https://public.tableau.com/app/profile/s.w7614/viz/AirbnbSeattleAnalysis_17231824490640/Dashboard1) 
 
 #### Certifications
